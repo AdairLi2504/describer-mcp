@@ -2,10 +2,11 @@ package internal
 
 import (
 	"context"
-	"describer/internal/config"
-	"describer/internal/messages/prompt"
 	"os"
 	"strings"
+
+	"github.com/AdairLi2504/describer-mcp/internal/config"
+	"github.com/AdairLi2504/describer-mcp/internal/messages/prompt"
 
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/tmc/langchaingo/llms"

@@ -3,11 +3,12 @@ package main
 import (
 	//"context"
 
-	. "describer/internal"
-	"describer/internal/config"
-	"describer/internal/messages/description"
 	"fmt"
 	"log"
+
+	. "github.com/AdairLi2504/describer-mcp/internal"
+	"github.com/AdairLi2504/describer-mcp/internal/config"
+	"github.com/AdairLi2504/describer-mcp/internal/messages/description"
 
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"

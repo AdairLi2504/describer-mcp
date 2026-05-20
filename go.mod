@@ -1,6 +1,6 @@
-module describer
+module github.com/AdairLi2504/describer-mcp
 
-go 1.26.2
+go 1.26
 
 require github.com/mark3labs/mcp-go v0.50.0
 
