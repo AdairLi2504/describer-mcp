@@ -56,7 +56,7 @@ Before you start, confirm that the `bin` folder path under `GOPATH` (check it by
 go install github.com/AdairLi2504/describer-mcp@latest # Install directly
 ```
 
-Then you can use `describer` to run it directly.
+Then you can use `describer-mcp` to run it directly.
 
 ## Intergation
 
@@ -87,7 +87,7 @@ If you have already installed that, you can call it directly
 {
   "mcpServers": {
     "describer-mcp": {
-      "command": "describer",
+      "command": "describer-mcp",
 	    "env": {
           "DESCRIBER_API_ENDPOINT": "",
           "DESCRIBER_API_KEY":"",
