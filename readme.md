@@ -1,5 +1,6 @@
 # describer-MCP
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Golang](https://img.shields.io/badge/golang-1.26+-00ADD8.svg)](https://go.dev)
 [![MCP](https://img.shields.io/badge/MCP-Compatible-green.svg)](https://modelcontextprotocol.io/)
 
@@ -98,4 +99,5 @@ If you have already installed that, you can call it directly
 ```
 Replace the empty strings with your actual values.
 
-
+## License
+[Apache-2.0](LICENSE)
